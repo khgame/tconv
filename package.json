@@ -1,0 +1,25 @@
+{
+  "name": "tconv",
+  "version": "0.0.1-beta.01",
+  "description": "token conversion based game framework",
+  "main": "src/tconv.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khgame/tconv.git"
+  },
+  "keywords": [
+    "game",
+    "framework",
+    "token",
+    "tconv"
+  ],
+  "author": "kinghand (kinghand@foxmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/khgame/tconv/issues"
+  },
+  "homepage": "https://github.com/khgame/tconv#readme"
+}
